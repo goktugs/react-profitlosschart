@@ -4,7 +4,7 @@ Welcome. Please clone this project and implement your solution for the P&L chart
 create a new repository in your GitHub account and submit your answer. You can access the 
 question [here](https://wasabi.xyz/quiz) and the form to submit [here](https://docs.google.com/forms/d/1qDxeMnHfhOa_jyf_4bK5oPkH8Q_ci7KiD-m6a_7lnxQ/edit).
 
-Load data from this API: 
+Fetch the option data by making a GET request to this URL: [https://mqcmmn3bpx.us-east-1.awsapprunner.com/pnldata](https://mqcmmn3bpx.us-east-1.awsapprunner.com/pnldata).
 
 ## Available Scripts
 
