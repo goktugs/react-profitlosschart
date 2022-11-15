@@ -1,9 +1,9 @@
-import './App.css';
+import './styles/App.css';
 
 export const App = () => {
   return (
     <div className="app">
-      {/* Your component goes here */}
+      {/* Your code goes here */}
     </div>
   );
 }
